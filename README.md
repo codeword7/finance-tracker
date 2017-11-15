@@ -1,1 +1,1 @@
-This is basic Finance Tracker Application.
+This is basic Finance Tracker Application built on Ruby on Rails.
